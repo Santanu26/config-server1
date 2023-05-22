@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97aff3e9-5d00-4d57-b9b6-5dce60ab2a17" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/account.properties" beforeDir="false" afterPath="$PROJECT_DIR$/account.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/card-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/card-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/card-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/card-prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/card.properties" beforeDir="false" afterPath="$PROJECT_DIR$/card.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loan-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/loan-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loan-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/loan-prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loan.properties" beforeDir="false" afterPath="$PROJECT_DIR$/loan.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Q9as3HLpcpP2ddzr1tpMuvkSVu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,17 +21,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/Santanu_Barua/Documents/assignment/config-server1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Santanu_Barua/Documents/assignment/config-server1&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="config-server1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="config-server1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
